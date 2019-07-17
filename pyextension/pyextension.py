@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import argparse
 
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 
 
 def prepare():
